@@ -1,4 +1,4 @@
-<?php
+<?hh
 namespace Kerk;
 /*
  * This is the core controller class this will be extended by other controllers.

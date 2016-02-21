@@ -1,4 +1,4 @@
-<?php
+<?hh
 /*
  * This is the index page.
  * It's the main point of entry and essentially the router.
@@ -10,6 +10,3 @@
 	include_once('config.php');
     include_once('routes.php');
 	include_once(CORE_DIR.'boot.php');
-
-
-?>
