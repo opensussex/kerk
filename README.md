@@ -7,3 +7,5 @@ Currently this is purely PHP - and will be converted overy to hack (there will b
 
 use the ?route=controller/method/var
 for the routing.
+
+hhvm -m server -p 8080
