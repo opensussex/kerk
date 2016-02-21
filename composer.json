@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-0": { "Kerk": "src/" }
+    },
+    "require": {
+        "raveren/kint": "^1.0"
+    }
+}
