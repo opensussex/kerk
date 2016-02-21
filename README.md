@@ -1,11 +1,19 @@
 # kerk
 hhvm / hack minimal mvc
 
-This is a very lightweight starting point mvc to be used with Hack
+This is a very lightweight starting point mvc to be used with Hack.  This is purely code organisation / design pattern - the Model has currently been left as a blank class - so that you're able to do what you like with it.
 
-Currently this is purely PHP - and will be converted overy to hack (there will be a php_version branch)
+There is a php version of this lightweight mvc - in the php_version branch.
 
-use the ?route=controller/method/var
-for the routing.
+###run the hvvm server
 
+```
 hhvm -m server -p 8080
+```
+
+###routing
+
+```
+?route=controller/method/var
+
+```
